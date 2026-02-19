@@ -76,5 +76,7 @@ java Main
 3. Press **Enter** to check your answer.
 4. If the timer hits zero or you get it wrong, the window will **shake** and reveal the correct answer.
 5. Press **Enter** again to go to the next question!
+6. <img width="730" height="894" alt="image" src="https://github.com/user-attachments/assets/d793eabb-a8f2-42b3-850a-d46227a0cf8f" />
+
 
 ---
